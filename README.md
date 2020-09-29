@@ -5,8 +5,7 @@ Bootcamp: Coding and Web Development
 Brooklyn Minor
 2020-09-24
 01-HTML-Homework1
-The purpose of this assignment was to apply our knowledge learned in lecture and implement such into
-our studies.
+The purpose of this assignment was to apply our knowledge learned in lecture and implement such into our studies.
 The following HTML Homework1 was fabricated and modified in Visual Code. Two links are required to
 be submitted to Bootcamp Spot after the necessary modifications have been made.
 The modifications made consisted of:
